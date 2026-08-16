@@ -1,0 +1,6 @@
+{
+  "name": "Rozar Hotel - Ataşehir İstanbul",
+  "description": "Rozar Hotel 3 Yıldızlı Konforlu Ataşehir Konaklama - Standart, Deluxe ve Suit Odalar, Spa ve Merkezi Konum.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
